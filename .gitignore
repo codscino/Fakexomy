@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python virtual environments
+[Ee][Nn][Vv]/
+
+# ExoMy_Sensors build and installation directories
+ExoMy_Sensors/build/
+ExoMy_Sensors/install/
+ExoMy_Sensors/log/
+
+# ROS generated files
+*.pyi
+
+# Editor and OS files
+.vscode/
+.vscode-server/
+.idea/
+.DS_Store
+*.swp
+
+**/log/
+**/install
