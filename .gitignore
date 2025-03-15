@@ -20,6 +20,9 @@ ExoMy_Sensors/log/
 .idea/
 .DS_Store
 *.swp
+.wget-hsts
+.sudo_as_admin_successful
 
 **/log/
 **/install
+**/build
